@@ -1,5 +1,3 @@
-# CSC 305 Introduction to Computer Graphics - Spring 2018
+#Raytracer#
 
-## Lab Exercises and Code
-
-Please see the wiki [here](https://github.com/arthurfirmino/icg/wiki/) for lab exercise descriptions.
+A raytracer coded in C++ using the blinn-phong shading model with options for anti-aliasing and reflective surfaces. OpenGP is used as a graphics library.

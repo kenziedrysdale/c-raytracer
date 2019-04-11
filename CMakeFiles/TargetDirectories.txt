@@ -1,0 +1,7 @@
+/Users/owner/Desktop/raytracer/CMakeFiles/rebuild_cache.dir
+/Users/owner/Desktop/raytracer/CMakeFiles/edit_cache.dir
+/Users/owner/Desktop/raytracer/CMakeFiles/update_opengp.dir
+/Users/owner/Desktop/raytracer/CMakeFiles/common_headers.dir
+/Users/owner/Desktop/raytracer/raytrace/CMakeFiles/rebuild_cache.dir
+/Users/owner/Desktop/raytracer/raytrace/CMakeFiles/edit_cache.dir
+/Users/owner/Desktop/raytracer/raytrace/CMakeFiles/raytrace.dir
