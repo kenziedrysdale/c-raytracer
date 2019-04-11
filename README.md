@@ -9,4 +9,10 @@ A raytracer coded in C++ using the blinn-phong shading model with options for an
 ## Blinn-Phong Model with checker floor
 ![](https://raw.githubusercontent.com/kenziedrysdale/c-raytracer/master/images/checker%20pattern.png)
 
-##
+## No Antialiasing vs Antialiased
+![](https://raw.githubusercontent.com/kenziedrysdale/c-raytracer/master/images/no%20antialiasing.png)
+![](https://raw.githubusercontent.com/kenziedrysdale/c-raytracer/master/images/Antialiased%20sphere.png)
+
+## Reflective floor
+
+![](https://raw.githubusercontent.com/kenziedrysdale/c-raytracer/master/images/reflective%20floor.png)
